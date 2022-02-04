@@ -1,0 +1,3 @@
+F:/term5/OS/Practical HW1/4/cmake-build-debug/CMakeFiles/4.dir
+F:/term5/OS/Practical HW1/4/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/term5/OS/Practical HW1/4/cmake-build-debug/CMakeFiles/rebuild_cache.dir

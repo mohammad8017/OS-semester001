@@ -1,0 +1,3 @@
+F:/term5/OS/HW1/5/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/term5/OS/HW1/5/cmake-build-debug/CMakeFiles/5.dir
+F:/term5/OS/HW1/5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
